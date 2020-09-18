@@ -1,5 +1,11 @@
 # cheatris
 tetris but different
+by
+Stefanie Arndt
+Christina-Marie Kasassov
+
+Bergakademie TU Freiberg
+Multimedia
 
 tetris with openGL
 
