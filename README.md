@@ -7,7 +7,7 @@ controls:
 
      Q - quit
      W - up
-     J - change tetromino Shape
+     J - change tetromino Shape if possible
            H to +,
            U to x,
            L to J  (mirror),
