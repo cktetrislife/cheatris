@@ -1,7 +1,8 @@
 # cheatris
 tetris but different
+
 by
-Stefanie Arndt
+Stefanie Arndt,
 Christina-Marie Kasassov
 
 Bergakademie TU Freiberg
