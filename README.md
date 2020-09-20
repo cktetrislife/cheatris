@@ -24,6 +24,8 @@ controls:
         shape can be changed, automatic drop speed is disabled, 
  
     L - automatic drop speed is reenabled 
+    
+    O - change preview tetromino randomly
 
      arrow:
       - down:    fast drop,
